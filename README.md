@@ -1,4 +1,6 @@
 ![logo](https://github.com/devpatel024/devpatel024/blob/main/Make%20your%20README.png)
+![logo](https://github.com/devpatel024/devpatel024/blob/main/gradient)
+
 <!-- # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=devpatel024&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=devpatel024&theme=dark&hide_border=false)<br/>
